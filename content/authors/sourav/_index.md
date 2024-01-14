@@ -10,11 +10,11 @@ role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Queensland University of Technology (QUT), Australia
-  url: https://research.qut.edu.au/qcr/
+- name: Australian Institute for Machine Learning (AIML), University of Adelaide, Australia
+  url: https://www.adelaide.edu.au/aiml/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I conduct research in the broad area of robotics, computer vision and machine learning with experience in visual place recognition, localization, object tracking and scene understanding.
+bio: I conduct research in Embodied Intelligence, which spans robotics, computer vision, and machine learning. I have a keen interest and experience in visual place recognition, localization, navigation, image retrieval, and scene understanding.
 
 # Interests to show in About widget
 #interests:
@@ -70,4 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a robotic-vision enthusiast. My research spans computer vision, robotics and deep learning, motivated by practical applications that involve a moving camera. I am currently the lead research fellow of [QUT's Perception and Localisation](https://research.qut.edu.au/qcr/perception-localisation/) research program.
+I conduct research in Embodied Intelligence, which spans robotics, computer vision, and machine learning. I have a keen interest and experience in visual place recognition, localization, navigation, image retrieval, and scene understanding. 
+
+I am currently leading robot navigation research at the [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/), University of Adelaide, with Prof. [Ian Reid](https://scholar.google.com.au/citations?user=ATkNLcQAAAAJ&hl=en) and Dr [Feras Dayoub](https://ferasdayoub.com/). Previously, I was the lead research fellow at [QUT's Perception & Localisation](https://research.qut.edu.au/qcr/perception-localisation/) research program, following on from my PhD at the [Australian Centre for Robotic Vision](https://en.wikipedia.org/wiki/Australian_Centre_for_Robotic_Vision), advised by Prof. [Michael Milford](https://www.qut.edu.au/about/our-people/academic-profiles/michael.milford) and Prof. [Niko Suenderhauf](https://nikosuenderhauf.github.io/). Before PhD, I worked as a robotics researcher in industry at [TCS Research](https://www.tcs.com/what-we-do/research) with Dr [Swagat Kumar](https://sites.google.com/site/swagatkumar/home), following my graduation from [Thapar University](https://www.thapar.edu/). I work closely with Prof. [Madhava Krishna](https://robotics.iiit.ac.in/) at IIITH, India.
