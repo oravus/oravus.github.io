@@ -5,9 +5,17 @@ authors:
 - Sourav Garg
 - Madhu Vankadari
 - Michael Milford
-date: '2022-01-01'
+date: '2021-12-01'
 publishDate: '2024-01-31T15:10:27.168667Z'
 publication_types:
 - paper-conference
 publication: '*Conference on Robot Learning*'
+featured: true
+url_pdf: 'https://openreview.net/pdf?id=OQMXb0xiCrt'
+url_code: 'https://github.com/oravus/SeqMatchNet'
+image:
+  caption: 'Schematic'
+  focal_point: "Center"
+  preview_only: false
+
 ---
