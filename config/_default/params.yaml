@@ -21,9 +21,9 @@ marketing:
     description: ''
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-CPP0YHNDWF'
     baidu_tongji: ''
-    google_tag_manager: ''
+    google_tag_manager: 'G-CPP0YHNDWF'
     microsoft_clarity: ''
   verification:
     google: ''
