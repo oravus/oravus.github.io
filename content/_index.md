@@ -47,8 +47,8 @@ sections:
     content:
       title: News
       text: |-
-        <div style="overflow: auto; height:150pt; width:100%;">
-        
+        <div style="overflow: auto; height:200pt; width:100%;">
+
         - Jan 2024: Conference paper [RoboHop](https://oravus.github.io/RoboHop/) accepted to [ICRA 2024](https://2024.ieee-icra.org/) <sup> *[[Worldwide #1 Robotics Conference, h5-index 119](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_robotics)]*</sup>
         - Jan 2024: Invited to serve as an **Associate Editor** for [IROS 2024](https://iros2024-abudhabi.org/) <sup> *[[Worldwide #2 Robotics Conference, h5-index 78](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_robotics)]*</sup>
         - Dec 2023: Journal article [AnyLoc](https://anyloc.github.io/) accepted to [IEEE RA-L](https://www.ieee-ras.org/publications/ra-l)  <sup> *[[Worldwide  #1 Robotics Journal, h5-index 106](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_robotics), [Impact Factor: 5.2](https://www.ieee-ras.org/publications/ra-l)]*</sup>
