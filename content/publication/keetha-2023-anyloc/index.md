@@ -27,4 +27,5 @@ image:
   caption: 'Schematic'
   focal_point: "TopLeft"
   preview_only: false
+  placement: 2
 ---
