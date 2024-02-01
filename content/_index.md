@@ -245,8 +245,10 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '3'
+      columns: '4'
       view: showcase
+      flip_alt_rows: false
+
   # - block: collection
     # id: talks
     # content:
