@@ -19,7 +19,7 @@ links:
     icon: twitter
     name: Thread
     url: 'https://twitter.com/i/status/1718792706225529320' 
-featured: true
+featured: false
 url_pdf: 'https://oravus.github.io/RoboHop/data/RoboHop_Garg2023_v2.pdf'
 url_code: ''
 url_dataset: ''
