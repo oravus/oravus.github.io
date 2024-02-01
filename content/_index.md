@@ -245,7 +245,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '1'
       view: compact
   # - block: collection
     # id: talks
