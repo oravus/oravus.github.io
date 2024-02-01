@@ -1,6 +1,7 @@
 ---
 title: 'RoboHop: Segment-based Topological Map Representation for Open-World Visual
   Navigation'
+weight: 10
 authors:
 - Sourav Garg
 - Krishan Rana
