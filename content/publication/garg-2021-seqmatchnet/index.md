@@ -15,7 +15,7 @@ url_pdf: 'https://openreview.net/pdf?id=OQMXb0xiCrt'
 url_code: 'https://github.com/oravus/SeqMatchNet'
 image:
   caption: 'Schematic'
-  focal_point: "Center"
+  focal_point: "TopLeft"
   preview_only: false
 
 ---
