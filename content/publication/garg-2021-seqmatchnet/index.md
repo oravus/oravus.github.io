@@ -1,7 +1,6 @@
 ---
 title: 'SeqMatchNet: Contrastive learning with sequence matching for place recognition
   & relocalization'
-weight: 20
 authors:
 - Sourav Garg
 - Madhu Vankadari

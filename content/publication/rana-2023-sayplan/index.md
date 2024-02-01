@@ -8,7 +8,7 @@ authors:
 - Jad Abou-Chakra
 - Ian Reid
 - Niko Suenderhauf
-date: '2023-01-01'
+date: '2023-12-01'
 publishDate: '2024-01-31T15:10:27.284245Z'
 publication_types:
 - paper-conference

@@ -222,17 +222,17 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '1'
-      view: card
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '1'
+  #     view: card
   - block: collection
     content:
       title: Recent Publications
@@ -245,7 +245,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '4'
+      columns: '1'
       view: showcase
       flip_alt_rows: false
 
