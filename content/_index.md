@@ -246,7 +246,7 @@ sections:
         exclude_featured: true
     design:
       columns: '1'
-      view: showcase
+      view: compact
       flip_alt_rows: false
 
   # - block: collection
