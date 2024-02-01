@@ -26,6 +26,5 @@ url_demo: 'https://huggingface.co/spaces/TheProjectsGuy/AnyLoc'
 image:
   caption: 'Schematic'
   focal_point: "TopLeft"
-  preview_only: true
-  placement: 1
+  preview_only: false
 ---
