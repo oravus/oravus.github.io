@@ -14,6 +14,11 @@ publishDate: '2024-01-31T15:10:27.278161Z'
 publication_types:
 - paper-conference
 publication: '*2024 IEEE International Conference on Robotics and Automation (ICRA)*'
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Thread
+    url: 'https://twitter.com/i/status/1718792706225529320' 
 featured: true
 url_pdf: 'https://oravus.github.io/RoboHop/data/RoboHop_Garg2023_v2.pdf'
 url_code: ''
