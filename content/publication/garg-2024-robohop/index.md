@@ -25,6 +25,6 @@ url_source: ''
 url_video: 'https://twitter.com/i/status/1718792706225529320'
 image:
   caption: 'Schematic'
-  focal_point: "Center"
+  focal_point: "TopLeft"
   preview_only: false
 ---
