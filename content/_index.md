@@ -49,7 +49,8 @@ sections:
       text: |-
         <div style="overflow: auto; height:200pt; width:100%;">
 
-        - Apr 2024: New joint work [QuesMaps](https://arxiv.org/abs/2404.06442) accepted to CVPR 2024 Workshop [OpenSun3D](https://opensun3d.github.io/)
+        - Apr 2024: Invited to be the *Co-Chair* of an oral session (SLAM) at ICRA 2024.
+        - Apr 2024: New joint work [QuestMaps](https://arxiv.org/abs/2404.06442) accepted to CVPR 2024 Workshop [OpenSun3D](https://opensun3d.github.io/)
         - Feb 2024: We won the [14th ITS *Australia Excellence in Research and Development* **Award**](https://its-australia.com.au/news/winners-announced-for-the-14th-annual-its-australia-awards/) for industry research funded by Ford Motor Co.
         - Jan 2024: 3x Papers ([RoboHop](https://oravus.github.io/RoboHop/), [AnyLoc](https://anyloc.github.io/), [VPR Tutorial](https://ieeexplore.ieee.org/document/10261441)) accepted to [ICRA 2024](https://2024.ieee-icra.org/) <sup> *[[Worldwide #1 Robotics Conference, h5-index 119](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_robotics)]*</sup>
         - Jan 2024: Invited to serve as an **Associate Editor** for [IROS 2024](https://iros2024-abudhabi.org/) <sup> *[[Worldwide #2 Robotics Conference, h5-index 78](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_robotics)]*</sup>
