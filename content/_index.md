@@ -49,6 +49,7 @@ sections:
       text: |-
         <div style="overflow: auto; height:200pt; width:100%;">
 
+        - May 2024: Recognized as an **Outstanding Reviewer (Top 2% of 9872)** <sup> *[[Twitter post](https://x.com/sourav_garg_/status/1794683477495074842)]*</sup> for [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024) <sup> *[[Worldwide #1 Vision Conference, h5-index 422](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)]*</sup>
         - Apr 2024: Invited to **Chair** 3 oral sessions (Localization/Navigation) at ICRA 2024 (Japan).
         - Apr 2024: New joint work [QuestMaps](https://arxiv.org/abs/2404.06442) accepted to CVPR 2024 Workshop [OpenSun3D](https://opensun3d.github.io/)
         - Feb 2024: We won the [14th ITS *Australia Excellence in Research and Development* **Award**](https://its-australia.com.au/news/winners-announced-for-the-14th-annual-its-australia-awards/) for industry research funded by Ford Motor Co.
