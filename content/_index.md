@@ -49,6 +49,7 @@ sections:
       text: |-
         <div style="overflow: auto; height:200pt; width:100%;">
 
+        - Sep 2024: Invited to serve as an **Area Chair** for [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025)  <sup> *[[Worldwide #1 Vision Conference, h5-index 440](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)]*</sup>
         - Jul 2024: 2x Papers [Revisit Anything]() and [VLAD-BuFF]() accepted to [ECCV 2024](https://eccv2024.ecva.net/)  <sup> *[[Worldwide #2 Vision Conference, h5-index 238](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)]*</sup>
         - Jun 2024: 2x Papers [DiffPrompter](https://diffprompter.github.io/) and [QuestMaps](https://arxiv.org/abs/2404.06442) accepted to IROS 2024.
         - May 2024: Recognized as an **Outstanding Reviewer (Top 2% of 9872)** <sup> *[[Twitter post](https://x.com/sourav_garg_/status/1794683477495074842)]*</sup> for [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024) <sup> *[[Worldwide #1 Vision Conference, h5-index 422](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)]*</sup>
