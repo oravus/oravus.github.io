@@ -49,6 +49,9 @@ sections:
       text: |-
         <div style="overflow: auto; height:200pt; width:100%;">
 
+        - Nov 2024: Paper [To Ask or Not to Ask?](https://arxiv.org/abs/2411.05831) accepted to WACV 2024.
+        - Oct 2024: **Invited Talk** and **Robot Demo** at the [Science Showcase 2024](https://www.thewaite.org/science-showcase-2024-expressions-of-interest/) organized by the [Royal Society of South Australia](https://www.rssa.org.au/) and [The Adelaide Club](https://adelaide-club.asn.au/).
+        - Oct 2024: Invited to **chair** 3x oral sessions on Semantic Scene Understanding at IROS 2024.
         - Sep 2024: Invited to serve as an **Area Chair** for [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025)  <sup> *[[Worldwide #1 Vision Conference, h5-index 440](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)]*</sup>
         - Jul 2024: 2x Papers [Revisit Anything]() and [VLAD-BuFF]() accepted to [ECCV 2024](https://eccv2024.ecva.net/)  <sup> *[[Worldwide #2 Vision Conference, h5-index 238](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)]*</sup>
         - Jun 2024: 2x Papers [DiffPrompter](https://diffprompter.github.io/) and [QuestMaps](https://arxiv.org/abs/2404.06442) accepted to IROS 2024.
