@@ -18,7 +18,7 @@ organizations:
   url: https://www.adelaide.edu.au/aiml/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I conduct research in Embodied Intelligence, which spans robotics, computer vision, and machine learning. I have a keen interest and experience in visual place recognition, localization, navigation, image retrieval, and scene understanding.
+bio: My research spans robotics, computer vision, and machine learning. I have a keen interest and extensive experience in place recognition, localization, navigation, retrieval, and scene understanding.
 
 # Interests to show in About widget
 #interests:
@@ -116,6 +116,18 @@ email: ""
 highlight_name: true
 ---
 
-I conduct research in Embodied Intelligence, which spans robotics, computer vision, and machine learning. I have a keen interest and experience in visual place recognition, localization, navigation, image retrieval, and scene understanding. 
+My research spans robotics, computer vision, and machine learning. I have a keen interest and extensive experience in place recognition, localization, navigation, retrieval, and scene understanding.
 
-I am currently leading robot navigation research at the [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/), University of Adelaide, with Prof. [Ian Reid](https://scholar.google.com.au/citations?user=ATkNLcQAAAAJ&hl=en) and Dr [Feras Dayoub](https://ferasdayoub.com/). Previously, I was the lead research fellow at [QUT's Perception & Localisation](https://research.qut.edu.au/qcr/perception-localisation/) research program, following on from my PhD at the [Australian Centre for Robotic Vision](https://en.wikipedia.org/wiki/Australian_Centre_for_Robotic_Vision), advised by Prof. [Michael Milford](https://www.qut.edu.au/about/our-people/academic-profiles/michael.milford) and Prof. [Niko Suenderhauf](https://nikosuenderhauf.github.io/). Before PhD, I worked as a robotics researcher in industry at [TCS Research](https://www.tcs.com/what-we-do/research) with Dr [Swagat Kumar](https://sites.google.com/site/swagatkumar/home), following my graduation from [Thapar University](https://www.thapar.edu/). I work closely with Prof. [Madhava Krishna](https://robotics.iiit.ac.in/), IIITH, India.
+*I am currently on a full-time parenting break!* 
+<br>
+(Emails sent to fn.ln@adelaide.edu.au after 22 Apr were not received. Please contact at *firstname dot sahaji at gmail*.)
+
+[2023-25] Research Fellow <code>[robot navigation]</code> at the [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/), Uni. Adelaide.
+<br>
+[2020-23] Research Fellow <code>[localisation]</code> at the [Centre for Robotics](https://www.qut.edu.au/research/centre-for-robotics/), QUT. 
+<br>
+[2016-19] PhD <code>[place recognition & retrieval]</code> at the [Australian Centre for Robotic Vision](https://en.wikipedia.org/wiki/Australian_Centre_for_Robotic_Vision), QUT.
+<br>
+[2012-15] Robotics researcher <code>[object detection & tracking]</code> at [TCS Research](https://www.tcs.com/what-we-do/research).
+
+<!-- I led robot navigation research at the [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/), University of Adelaide, with Prof. [Ian Reid](https://scholar.google.com.au/citations?user=ATkNLcQAAAAJ&hl=en) and Dr [Feras Dayoub](https://ferasdayoub.com/). Previously, I was the lead research fellow at [QUT's Perception & Localisation](https://research.qut.edu.au/qcr/perception-localisation/) research program, following on from my PhD at the [Australian Centre for Robotic Vision](https://en.wikipedia.org/wiki/Australian_Centre_for_Robotic_Vision), advised by Prof. [Michael Milford](https://www.qut.edu.au/about/our-people/academic-profiles/michael.milford) and Prof. [Niko Suenderhauf](https://nikosuenderhauf.github.io/). Before PhD, I worked as a robotics researcher in industry at [TCS Research](https://www.tcs.com/what-we-do/research) with Dr [Swagat Kumar](https://sites.google.com/site/swagatkumar/home), following my graduation from [Thapar University](https://www.thapar.edu/). I work closely with Prof. [Madhava Krishna](https://robotics.iiit.ac.in/), IIITH, India. -->
