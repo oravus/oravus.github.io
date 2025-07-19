@@ -48,12 +48,14 @@ sections:
       title: News
       text: |-
         <div style="overflow: auto; height:200pt; width:100%;">
-
+        - Feb 2025: 2x papers [TANGO](https://podgorki.github.io/TANGO/) & [Change Detection](https://chadlin9596.github.io/Robust-Scene-Change-Detection/) accepted to ICRA 2025.
+        - Jan 2025: **Invited speaker** at RSS 2025 Workshop on Learned Robot Representations.
+        - Dec 2024: Invited to serve as an **Area Chair** for [ICCV 2025](https://iccv.thecvf.com/Conferences/2025)
         - Nov 2024: Paper [To Ask or Not to Ask?](https://arxiv.org/abs/2411.05831) accepted to WACV 2024.
         - Oct 2024: **Invited Talk** and **Robot Demo** at the [Science Showcase 2024](https://www.thewaite.org/science-showcase-2024-expressions-of-interest/) organized by the [Royal Society of South Australia](https://www.rssa.org.au/) and [The Adelaide Club](https://adelaide-club.asn.au/).
         - Oct 2024: Invited to **chair** 3x oral sessions on Semantic Scene Understanding at IROS 2024.
         - Sep 2024: Invited to serve as an **Area Chair** for [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025)  <sup> *[[Worldwide #1 Vision Conference, h5-index 440](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)]*</sup>
-        - Jul 2024: 2x Papers [Revisit Anything]() and [VLAD-BuFF]() accepted to [ECCV 2024](https://eccv2024.ecva.net/)  <sup> *[[Worldwide #2 Vision Conference, h5-index 238](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)]*</sup>
+        - Jul 2024: 2x Papers [Revisit Anything](https://revisit-anything.github.io/) and [VLAD-BuFF](https://github.com/Ahmedest61/VLAD-BuFF) accepted to [ECCV 2024](https://eccv2024.ecva.net/)  <sup> *[[Worldwide #2 Vision Conference, h5-index 238](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)]*</sup>
         - Jun 2024: 2x Papers [DiffPrompter](https://diffprompter.github.io/) and [QuestMaps](https://arxiv.org/abs/2404.06442) accepted to IROS 2024.
         - May 2024: Recognized as an **Outstanding Reviewer (Top 2% of 9872)** <sup> *[[Twitter post](https://x.com/sourav_garg_/status/1794683477495074842)]*</sup> for [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024) <sup> *[[Worldwide #1 Vision Conference, h5-index 422](https://scholar.google.com.au/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)]*</sup>
         - Apr 2024: Invited to **Chair** 3 oral sessions (Localization/Navigation) at ICRA 2024 (Japan).
