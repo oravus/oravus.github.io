@@ -10,7 +10,7 @@ last_name: Garg
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Fellow
+role: (former) Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
