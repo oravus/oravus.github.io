@@ -48,6 +48,7 @@ sections:
       title: News
       text: |-
         <div style="overflow: auto; height:200pt; width:100%;">
+
         - Feb 2025: 2x papers [TANGO](https://podgorki.github.io/TANGO/) & [Change Detection](https://chadlin9596.github.io/Robust-Scene-Change-Detection/) accepted to ICRA 2025.
         - Jan 2025: **Invited speaker** at RSS 2025 Workshop on Learned Robot Representations.
         - Dec 2024: Invited to serve as an **Area Chair** for [ICCV 2025](https://iccv.thecvf.com/Conferences/2025)
