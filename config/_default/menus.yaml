@@ -10,11 +10,11 @@ main:
   - name: News
     url: '#news'
     weight: 20
-  - name: Featured
-    url: '#featured'
+  # - name: Featured
+  #   url: '#featured'
     weight: 30
   - name: Publications
-    url: '#publications'
+    url: '#recent-publications'
     weight: 40
   - name: Contact
     url: '#contact'
