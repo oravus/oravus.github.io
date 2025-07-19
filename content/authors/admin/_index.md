@@ -122,11 +122,11 @@ My research spans robotics, computer vision, and machine learning. I have a keen
 <br>
 (Emails sent to fn.ln@adelaide.edu.au after 22 Apr were not received. Please contact at *firstname dot sahaji at gmail*.)
 
-[2023-25] Research Fellow <code>[robot navigation]</code> at the [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/), Uni. Adelaide.
+[2023-25] Research Fellow <code>[robot navigation]</code> at [AIML](https://www.adelaide.edu.au/aiml/), Uni. Adelaide.
 <br>
-[2020-23] Research Fellow <code>[localisation]</code> at the [Centre for Robotics](https://www.qut.edu.au/research/centre-for-robotics/), QUT. 
+[2020-23] Research Fellow <code>[localisation]</code> at [QCR](https://www.qut.edu.au/research/centre-for-robotics/), QUT. 
 <br>
-[2016-19] PhD <code>[place recognition & retrieval]</code> at the [Australian Centre for Robotic Vision](https://en.wikipedia.org/wiki/Australian_Centre_for_Robotic_Vision), QUT.
+[2016-19] PhD <code>[place recognition & retrieval]</code> at [ACRV](https://en.wikipedia.org/wiki/Australian_Centre_for_Robotic_Vision), QUT.
 <br>
 [2012-15] Robotics researcher <code>[object detection & tracking]</code> at [TCS Research](https://www.tcs.com/what-we-do/research).
 
