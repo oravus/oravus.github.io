@@ -247,6 +247,7 @@ sections:
   #     columns: '1'
   #     view: card
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       count: 10
