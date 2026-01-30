@@ -119,7 +119,9 @@ highlight_name: true
 
 My research spans robotics, computer vision, and machine learning. I have a keen interest and extensive experience in place recognition, localization, navigation, retrieval, and scene understanding.
 
-[2026] Assistant Prof at[Robotics Research Centre](https://robotics.iiit.ac.in/), IIIT Hyderabad.
+*If you are looking for internship/phd/postdoc positions or are interested in a collaboration, get in touch at <firstname.lastname>@iiit.ac.in*
+
+[2026] Assistant Prof at [Robotics Research Centre](https://robotics.iiit.ac.in/), IIIT Hyderabad, India.
 <br>
 [2023-25] Research Fellow <code>[robot navigation]</code> at [AIML](https://www.adelaide.edu.au/aiml/), Uni. Adelaide.
 <br>
