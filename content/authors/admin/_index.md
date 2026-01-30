@@ -10,12 +10,13 @@ last_name: Garg
 superuser: true
 
 # Role/position/tagline
-role: (former) Research Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Australian Institute for Machine Learning (AIML), University of Adelaide, Australia
-  url: https://www.adelaide.edu.au/aiml/
+- name: IIIT Hyderabad, India
+  url: https://robotics.iiit.ac.in/
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research spans robotics, computer vision, and machine learning. I have a keen interest and extensive experience in place recognition, localization, navigation, retrieval, and scene understanding.
@@ -118,10 +119,8 @@ highlight_name: true
 
 My research spans robotics, computer vision, and machine learning. I have a keen interest and extensive experience in place recognition, localization, navigation, retrieval, and scene understanding.
 
-*I am currently on a full-time parenting break!* 
+[2026] Assistant Prof at[Robotics Research Centre](https://robotics.iiit.ac.in/), IIIT Hyderabad.
 <br>
-(Emails sent to fn.ln@adelaide.edu.au after 22 Apr were not received. Please contact at *firstname dot sahaji at gmail*.)
-
 [2023-25] Research Fellow <code>[robot navigation]</code> at [AIML](https://www.adelaide.edu.au/aiml/), Uni. Adelaide.
 <br>
 [2020-23] Research Fellow <code>[localisation]</code> at [QCR](https://www.qut.edu.au/research/centre-for-robotics/), QUT. 
